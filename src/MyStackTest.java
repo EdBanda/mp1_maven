@@ -1,7 +1,7 @@
 import static org.junit.Assert.assertEquals;
 import java.lang.Math;
 import org.junit.Test;
-
+import static org.junit.Assert.assertTrue;
 
 
 public class MyStackTest {
